@@ -1,18 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b4aa4a04-e097-4067-87ec-9a6681335673/deploy-status)](https://app.netlify.com/sites/svelte-tailwindcss-storybook/deploys) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjerriclynsjohn%2Fsvelte-storybook-tailwind.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjerriclynsjohn%2Fsvelte-storybook-tailwind?ref=badge_shield)
-
 # A starter template for Svelte, TailwindCSS and Storybook
-
-![Svelte + TailwindCSS + Storybook Starter Template](starter-template.jpg)
-
 
 > Visit this website to see the outcome: [Svelte + TailwindCSS + Storybook](https://svelte-tailwindcss-storybook.netlify.com)
 
 ```bash
 // Quickstart
-
-npx degit jerriclynsjohn/svelte-storybook-tailwind my-svelte-project
-cd my-svelte-project
-
 yarn
 yarn dev
 yarn stories
@@ -24,8 +15,6 @@ Svelte and TailwindCSS is an awesome combination for Frontend development, but s
 
 ## What do you get in this repo
 
-![Storybook UI](Storybook-alert-modern.PNG)
-
 1. A fully functional Svelte + TailwindCSS integration with side-by-side implementation of independent Storybook
 2. Storybook with 5 essential Addons
 3. Storybook populated with basic examples of Svelte + TailwindCSS
@@ -34,27 +23,15 @@ Svelte and TailwindCSS is an awesome combination for Frontend development, but s
 
 - Accessibility Addon
 
-![Accessibility Addon](storybook-accessibility-addon.PNG)
-
 - Accessibility Addon - Colorblindness Emulation
-
-![Accessibility Addon - Colorblindness Emulation](storybook-accessibility-addon-colorblindness-emulation.PNG)
 
 - Actions Addon
 
-![Actions Addon](storybook-actions-addon.PNG)
-
 - Notes Addon
-
-![Notes Addon](storybook-Documentation-Component.PNG)
 
 - Source Addon
 
-![Source Addon](storybook-storycode-addon.PNG)
-
 - Viewport Addon
-
-![Source Addon](storybook-viewport-addon.PNG)
 
 ## Svelte + TailwindCSS + Storybook
 
@@ -385,12 +362,9 @@ Here are a few examples to help you get an idea of how to build components like 
 
 - Run your storyboard `yarn stories` and you'll see this:
 
-![Storybook UI](storybook-ui.PNG)
-
 You can add more addons and play around with them.
 
 That's a wrap!
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjerriclynsjohn%2Fsvelte-storybook-tailwind.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjerriclynsjohn%2Fsvelte-storybook-tailwind?ref=badge_large)
